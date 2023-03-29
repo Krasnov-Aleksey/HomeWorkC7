@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\bin\Debug\net6.0\Taskadd2.exe
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\bin\Debug\net6.0\Taskadd2.deps.json
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\bin\Debug\net6.0\Taskadd2.runtimeconfig.json
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\bin\Debug\net6.0\Taskadd2.dll
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\bin\Debug\net6.0\Taskadd2.pdb
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.dll
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\refint\Taskadd2.dll
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.pdb
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\Taskadd2.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWorkC\HomeWorkC7\Taskadd2\obj\Debug\net6.0\ref\Taskadd2.dll

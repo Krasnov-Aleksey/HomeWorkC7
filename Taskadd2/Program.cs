@@ -14,12 +14,21 @@ void PrintMatrix(int[,] matrix)
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
-            Console.Write($"{matrix[i, j]} \t");
+        {
+            if(matrix[i,j]==0)
+            {
+                Console.Write("W");
+            }
+            else
+            {
+                Console.Write("B");
+            }
+        }
         Console.WriteLine();
     }
 }
 
-int ComparisonMatrix(int[,] matrix1, int[,] mairix2)
+int ComparisonMatrix(int[,] matrix1, int[,] mairix2) //Сравнение 2 массивов
 {
     int count=0;
     for(int i=0;i<matrix1.GetLength(0);i++)

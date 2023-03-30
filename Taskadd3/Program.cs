@@ -22,11 +22,8 @@ void InputMatrix(int[,] matrix)
         n = i;
         for (int j = matrix.GetLength(1) - 1; j >= 0; j--)
         {
-            //Console.WriteLine(j);
             if (n <matrix.GetLength(0))
             {
-                //Console.Write(n);
-                //Console.WriteLine(j);
                 matrix[n, j] = a + 1;
                 a = matrix[n, j];
                 n++;
